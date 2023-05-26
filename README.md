@@ -1,5 +1,6 @@
 ### Hello, World! 👩🏻‍💻
 
+[![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas)]
 <!--
 **CarolinaSFreitas/CarolinaSFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
