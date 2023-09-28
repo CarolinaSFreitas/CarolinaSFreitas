@@ -1,12 +1,10 @@
 ### Hello, World! 👩🏻‍💻
 
-<div align="center">
-
-![spaceinvaders-videogames](https://github.com/CarolinaSFreitas/CarolinaSFreitas/assets/99994934/252692f9-fb62-438e-9d63-391ce952a85c)
+<!-- <div align="center"> -->
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&layout=compact&theme=dark)
 
-</div>
+<!-- </div> ->
 
 
 <!--
