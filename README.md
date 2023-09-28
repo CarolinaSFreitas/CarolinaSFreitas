@@ -1,7 +1,9 @@
 ### Hello, World! 👩🏻‍💻
 
 <div align="center">
+  
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&layout=compact&theme=dark)
+
 </div>
 
 
