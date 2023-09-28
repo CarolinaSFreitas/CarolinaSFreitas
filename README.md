@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<div class="tenor-gif-embed" data-postid="4992695" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/spaceinvaders-videogames-gif-4992695">Spaceinvaders Videogames GIF</a>from <a href="https://tenor.com/search/spaceinvaders-gifs">Spaceinvaders GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="4992695" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/spaceinvaders-videogames-gif-4992695"></a>from <a href="https://tenor.com/search/spaceinvaders-gifs">Spaceinvaders GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&layout=compact&theme=dark)
 
