@@ -1,6 +1,6 @@
 ### Hello, World! 👩🏻‍💻
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&layout=compact&theme=dark)
 
 
 <!--
