@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img https://tenor.com/pt-BR/view/spaceinvaders-videogames-gif-4992695 />
+![spaceinvaders-videogames](https://github.com/CarolinaSFreitas/CarolinaSFreitas/assets/99994934/252692f9-fb62-438e-9d63-391ce952a85c)
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&layout=compact&theme=dark)
 
