@@ -3,6 +3,7 @@
 <div align="center">
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
 <img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&theme=dark">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&theme=dark)]
 </div>
 
 
