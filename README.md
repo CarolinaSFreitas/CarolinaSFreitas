@@ -1,6 +1,6 @@
 ### Hello, World! 👩🏻‍💻
 
-### Estatísticas: 
+### Estatísticas no GitHub: 
 
 <div align="center">
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
