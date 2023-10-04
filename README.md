@@ -1,6 +1,6 @@
 ### Hello, World! 👩🏻‍💻
 
-#### Meu nome é Carolina e sou estudante de ADS 
+### Meu nome é Carolina e sou estudante de ADS 
 
 ## Estatísticas no GitHub: 
 
