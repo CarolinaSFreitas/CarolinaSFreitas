@@ -9,7 +9,7 @@
 <img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&hide_progress=true&theme=dark">
 </div>
 
-## Tecnologias:
+## Tecnologias que tenho interesse:
 
 <div align="center" >
 	<code><img width="60"  src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
