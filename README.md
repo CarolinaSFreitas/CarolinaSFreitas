@@ -1,4 +1,4 @@
-![Oracle-Database](https://github.com/CarolinaSFreitas/CarolinaSFreitas/assets/99994934/0a8eae31-a6f8-4398-a072-5529a1418eb4)### Hello, World! 👩🏻‍💻
+### Hello, World! 👩🏻‍💻
 
 <div align="center">
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
