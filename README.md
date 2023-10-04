@@ -13,7 +13,7 @@
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="45" src=https://pbs.twimg.com/media/DgLpI44VAAE0CY1.png" alt="Oracle Linux" title="Oracle Linux"/></code>
+	<code><img width="45" src="https://pbs.twimg.com/media/DgLpI44VAAE0CY1.png" alt="Oracle Linux" title="Oracle Linux"/></code>
 </div>	
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
