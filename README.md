@@ -1,4 +1,4 @@
-### Hello, World! 👩🏻‍💻
+![Oracle-Database](https://github.com/CarolinaSFreitas/CarolinaSFreitas/assets/99994934/0a8eae31-a6f8-4398-a072-5529a1418eb4)### Hello, World! 👩🏻‍💻
 
 <div align="center">
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
@@ -12,6 +12,9 @@
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
+	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+	<code><img width="45" src="[https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdownloadly.net%2Ftag%2F9-oracle-linux%2F&psig=AOvVaw2LOKaWvP7Q3KT8ZaIMoZga&ust=1696514887164000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOCQvc3I3IEDFQAAAAAdAAAAABAS)" alt="Oracle Linux" title="Oracle Linux"/></code>
+</div>	
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
