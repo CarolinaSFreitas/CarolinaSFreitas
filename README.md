@@ -1,15 +1,15 @@
 ### Hello, World! 👩🏻‍💻
 
-## Meu nome é Carolina e sou estudante de ADS 
+#### Meu nome é Carolina e sou estudante de ADS 
 
-### Estatísticas no GitHub: 
+## Estatísticas no GitHub: 
 
 <div align="center">
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
 <img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&hide_progress=true&theme=dark">
 </div>
 
-### Tecnologias:
+## Tecnologias:
 
 <div align="center" >
 	<code><img width="50"  src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
