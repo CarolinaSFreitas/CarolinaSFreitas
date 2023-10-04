@@ -16,7 +16,7 @@
 	<code><img width="65" src="https://pbs.twimg.com/media/DgLpI44VAAE0CY1.png" alt="Oracle Linux" title="Oracle Linux"/></code>
 </div>	
 
- <div align="center">
+ <div align="center" style="margin-bottom: 25px">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 	<code><img width="45" src="https://sequelize.org/img/logo.svg" alt="Sequelize" title="Sequelize"/></code>
