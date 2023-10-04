@@ -1,4 +1,4 @@
-![image](https://github.com/CarolinaSFreitas/CarolinaSFreitas/assets/99994934/3c8510d2-3690-4075-b4bb-2ef2bc6c4615)### Hello, World! 👩🏻‍💻
+### Hello, World! 👩🏻‍💻
 
 <div align="center">
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
@@ -19,7 +19,7 @@
  <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="45" src="https://sequelize.org/img/logo.svg" alt="Sequelize" title="Sequelize"/></code>
+	<code><img width="35" src="https://sequelize.org/img/logo.svg" alt="Sequelize" title="Sequelize"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
