@@ -12,11 +12,20 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,git,kubernetes,terraform,docker,linux,bash" />
-    <img src="https://skillicons.dev/icons?i=node,express,sequelize,mysql,python" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,flowbite" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,express,sequelize,mysql,python" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,flowbite" />
+  </a>
+</p>
 
 
  <div align="center">
