@@ -8,7 +8,7 @@
 </div>
 
 ## Meus interesses:
-
+<!---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,git,kubernetes,docker,linux,bash" />
@@ -26,9 +26,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
   </a>
 </p>
+--->
 
-
-<!-- <div align="center">
+<div align="center">
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 	<code><img width="50" src="https://sequelize.org/img/logo.svg" alt="Sequelize" title="Sequelize"/></code>
