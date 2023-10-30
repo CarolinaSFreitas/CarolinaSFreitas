@@ -7,8 +7,7 @@
 <img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&hide_progress=true&theme=dark">
 </div>
 
-## Meus interesses:
-<!---
+<!--- ## Meus interesses:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,git,kubernetes,docker,linux,bash" />
