@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
   </a>
 </p>
---->
+
 
 <div align="center">
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
@@ -43,6 +43,7 @@
 	<code><img width="66" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="55" src="https://flowbite.com/images/logo.svg" alt="Flowbite" title="Flowbite"/></code>
  </div>
+--->
 
 <!--
 **CarolinaSFreitas/CarolinaSFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
