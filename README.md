@@ -7,7 +7,7 @@
 <img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&hide_progress=true&theme=dark">
 </div>
 
-<!--- ## Meus interesses:
+## Meus interesses:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,git,kubernetes,docker,linux,bash" />
@@ -42,19 +42,8 @@
 	<code><img width="66" src="https://camo.githubusercontent.com/2512b49c89512f2ff3718f7257f48ed5c46a4e331abbd890b6c5e8c0e458434f/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="55" src="https://flowbite.com/images/logo.svg" alt="Flowbite" title="Flowbite"/></code>
  </div>
---->
+
 
 <!--
 **CarolinaSFreitas/CarolinaSFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
