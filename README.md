@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/-javascript-E49D2C?logo=javascript&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-sequelize-1D7ABE?logo=sequelize&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-express.js-323230?logo=express&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-nodejs-44A658?logo=nodedotjs&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-node.js-44A658?logo=nodedotjs&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-python-3E7CAD?logo=python&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-mysql-01618A?logo=mysql&style=for-the-badge&logoColor=white)
 
