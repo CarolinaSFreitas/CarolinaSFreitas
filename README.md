@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/-linux-222222?logo=linux&style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/-html-E34B24?logo=html5&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-css-006DBA?logo=css3&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-css-2864F2?logo=css3&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-bootstrap-62478A?logo=bootstrap&style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/-javascript-E49D2C?logo=javascript&style=for-the-badge&logoColor=white)
