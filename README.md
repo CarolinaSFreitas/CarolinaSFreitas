@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/carolina-s-freitas/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 
 - 👋 Eu sou a Carol, estudo Análise e Desenvolvimento de Sistemas na FATEC de Pelotas
-- 💻 Atualmente, estou explorando e atuando nas áreas de DevOps e Cloud Computing
+- 💻 Atualmente estou explorando e atuando nas áreas de DevOps e Cloud Computing
 - 🤓 Me interesso também por desenvolvimento tanto no Backend quanto no Frontend
 
 ## Meus Interesses e Skills:
