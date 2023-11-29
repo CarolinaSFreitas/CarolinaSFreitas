@@ -9,7 +9,7 @@
 ## Meus Interesses e Skills:
 
 ![](https://img.shields.io/badge/-aws-222E3E?logo=amazonaws&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-linux-000000?logo=linux&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-linux-222222?logo=linux&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-docker-0698FF?logo=docker&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
