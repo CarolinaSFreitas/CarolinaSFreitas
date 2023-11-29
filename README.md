@@ -22,9 +22,9 @@
 ![](https://img.shields.io/badge/-bootstrap-62478A?logo=bootstrap&style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/-javascript-E49D2C?logo=javascript&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-nodejs-44A658?logo=nodedotjs&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-expressjs-323230?logo=express&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-sequelize-1D7ABE?logo=sequelize&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-express.js-323230?logo=express&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-nodejs-44A658?logo=nodedotjs&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-python-3E7CAD?logo=python&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-mysql-01618A?logo=mysql&style=for-the-badge&logoColor=white)
 
@@ -34,5 +34,4 @@
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
 <img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&hide_progress=true&theme=dark">
 </div>
-
 
