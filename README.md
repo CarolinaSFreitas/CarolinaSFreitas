@@ -4,7 +4,7 @@
 - 💻 Atualmente, estou explorando e atuando nas áreas de DevOps e Cloud Computing
 - 🤓 Me interesso também por desenvolvimento tanto no Backend quanto no Frontend
 
-<a href="[https://www.linkedin.com/in/carolina-s-freitas/]" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolina-s-freitas/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 
 ## Meus Interesses e Skills:
 
