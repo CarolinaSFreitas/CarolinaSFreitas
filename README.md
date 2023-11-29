@@ -9,14 +9,24 @@
 ## Meus Interesses e Skills:
 
 ![](https://img.shields.io/badge/-aws-222E3E?logo=amazonaws&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-linux-222222?logo=linux&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-docker-0698FF?logo=docker&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azuredevops-0F6AD0?logo=azure%20devops&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-docker-0698FF?logo=docker&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-terraform-5A4CE9?logo=terraform&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-git-F54D37?logo=git&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-linux-222222?logo=linux&style=for-the-badge&logoColor=white)
 
+![](https://img.shields.io/badge/-html-E34B24?logo=html5&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-css-006DBA?logo=css3&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-bootstrap-62478A?logo=bootstrap&style=for-the-badge&logoColor=white)
 
+![](https://img.shields.io/badge/-javascript-E49D2C?logo=javascript&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-nodejs-44A658?logo=nodedotjs&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-expressjs-323230?logo=express&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-sequelize-1D7ABE?logo=sequelize&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-python-3E7CAD?logo=python&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-mysql-01618A?logo=mysql&style=for-the-badge&logoColor=white)
 
 ## Estatísticas no GitHub: 
 
