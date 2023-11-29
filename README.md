@@ -6,10 +6,15 @@
 
 <a href="[https://www.linkedin.com/in/carolina-s-freitas/]" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 
-## Meus interesses e Skills:
+## Meus Interesses e Skills:
 
 ![](https://img.shields.io/badge/-aws-222E3E?logo=amazonaws&style=for-the-badge&logoColor=white)
-
+![](https://img.shields.io/badge/-linux-000000?logo=linux&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-docker-0698FF?logo=docker&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-azuredevops-0F6AD0?logo=azuredevops&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-git-F54D37?logo=git&style=for-the-badge&logoColor=white)
 
 
 
