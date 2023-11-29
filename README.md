@@ -8,7 +8,8 @@
 
 ## Meus interesses e Skills:
 
-![]([https://img.shields.io/badge/-aws-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"](https://img.shields.io/badge/-aws-FF9900?logo=amazonaws&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-aws-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"](https://img.shields.io/badge/-aws-FF9900?logo=amazonaws&style=for-the-badge&logoColor=white)
+
 
 
 
