@@ -1,6 +1,6 @@
 ## Hello, World! 👩🏻‍💻
 
-<div align="center" style="margin: 10px;">
+<div align="center" style="margin: 15px;">
 <a href="https://www.linkedin.com/in/carolina-s-freitas/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="mailto:carolsoaresfreitas@hotmail.com"><img src="https://img.shields.io/badge/-email-0472CA?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 </div>
