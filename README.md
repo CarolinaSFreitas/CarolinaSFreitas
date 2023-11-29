@@ -12,7 +12,7 @@
 
 - 🤓 Me interesso também por desenvolvimento tanto no Back-end quanto no Front-end
 
-## Tecnologias, Habilidades e Interesses:
+## Tecnologias e Interesses:
 
 ![](https://img.shields.io/badge/-aws-222E3E?logo=amazonaws&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
