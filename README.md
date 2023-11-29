@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/-docker-0698FF?logo=docker&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-azuredevops-0F6AD0?logo=azuredevops&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-azuredevops-0F6AD0?logo=azure%20devops&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-git-F54D37?logo=git&style=for-the-badge&logoColor=white)
 
 
