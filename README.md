@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/-css-2864F2?logo=css3&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-bootstrap-62478A?logo=bootstrap&style=for-the-badge&logoColor=white)
 
-## Estatísticas no GitHub: 
+## 
 
 <div align="center">
 <img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
