@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-terraform-5A4CE9?logo=terraform&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-git-F54D37?logo=git&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-linux-%23121011.svg?logo=Linux&style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/-Linux-%23121011.svg?logo=linux&style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![](https://img.shields.io/badge/-javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) 
 ![](https://img.shields.io/badge/-sequelize-1D7ABE?logo=sequelize&style=for-the-badge&logoColor=white)
