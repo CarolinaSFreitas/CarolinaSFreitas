@@ -8,7 +8,7 @@
 
 - 👋 Eu sou a Carol, estudo Análise e Desenvolvimento de Sistemas na FATEC de Pelotas
 
-- 💻 Atualmente estou explorando e atuando nas áreas de DevOps e Cloud Computing
+- 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
 
 - 🤓 Me interesso também por desenvolvimento, tanto no Back-end quanto no Front-end
 
