@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/-linux-111111?logo=linux&style=for-the-badge&logoColor=white)
 
 ![](https://img.shields.io/badge/-javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black) 
+![](https://img.shields.io/badge/-typescript-007acc?logo=typescript&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-sequelize-1D7ABE?logo=sequelize&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-express.js-323230?logo=express&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-node.js-44A658?logo=nodedotjs&style=for-the-badge&logoColor=white)
