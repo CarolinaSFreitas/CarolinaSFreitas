@@ -6,7 +6,7 @@
 </div>
 
 
-- 👋 Eu sou a Carol, estudo Análise e Desenvolvimento de Sistemas na FATEC de Pelotas
+- 👋 Eu sou a Carol, estudo Análise e Desenvolvimento de Sistemas na UniSenac em Pelotas
 
 - 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
 
