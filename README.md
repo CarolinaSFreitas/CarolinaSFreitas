@@ -10,7 +10,7 @@
 
 - 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
 
-## Tecnologias:
+## Tecnologias e Interesses:
 
 ![](https://img.shields.io/badge/-aws-222E3E?logo=amazonaws&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
