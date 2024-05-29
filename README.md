@@ -10,8 +10,13 @@
 
 - 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
 
-## Tecnologias e Interesses:
+- 🤓 Me interesso também por desenvolvimento, tanto no Back-end quanto no Front-end
 
+  
+#
+
+<div align="center">
+  
 ![](https://img.shields.io/badge/-aws-222E3E?logo=amazonaws&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azuredevops-0F6AD0?logo=azure%20devops&style=for-the-badge&logoColor=white)
@@ -25,3 +30,10 @@
 ![](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![](https://img.shields.io/badge/datadog-774aa4.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
+</div>
+
+#
+<div align="center">
+<img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
+<img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&hide_progress=true&theme=dark">
+</div>
