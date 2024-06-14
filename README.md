@@ -10,8 +10,7 @@
 
 - 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
 
-- 🤓 Me interesso também por desenvolvimento, tanto no Back-end quanto no Front-end
-
+- 🤓 Me interesso também por desenvolvimento
   
 #
 
