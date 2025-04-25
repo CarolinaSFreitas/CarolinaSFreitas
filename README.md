@@ -11,6 +11,15 @@
 - 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
 
 - 🤓 Me interesso também por desenvolvimento
+
+
+# 
+
+<div align="center">
+<img width="120px" height="120px" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png">
+<img width="120px" height="120px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+<img width="120px" height="120px" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png">
+</div>
   
 #
 
