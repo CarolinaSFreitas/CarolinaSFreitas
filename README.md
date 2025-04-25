@@ -25,8 +25,8 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/-aws-222E3E?logo=amazonaws&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-azure-0188D7?logo=microsoftazure&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-aws-222E3E?logo=amazon-web-services&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-azure-0188D7?logo=azure&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azuredevops-0F6AD0?logo=azure%20devops&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-docker-0698FF?logo=docker&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
