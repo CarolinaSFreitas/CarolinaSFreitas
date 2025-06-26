@@ -35,7 +35,6 @@
 ![](https://img.shields.io/badge/-git-F54D37?logo=git&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-linux-111111?logo=linux&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-mysql-01618A?logo=mysql&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![](https://img.shields.io/badge/datadog-774aa4.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
 </div>
