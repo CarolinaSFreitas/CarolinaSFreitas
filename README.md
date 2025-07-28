@@ -6,7 +6,7 @@
 </div>
 
 
-- 👋 Eu sou a Carol, estudo Análise e Desenvolvimento de Sistemas na UniSenac em Pelotas
+- 👋 Eu sou a Carol, formada em Análise e Desenvolvimento de Sistemas
 
 - 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
 
