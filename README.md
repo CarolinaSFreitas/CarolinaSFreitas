@@ -4,14 +4,10 @@
 <a href="https://www.linkedin.com/in/carolina-s-freitas/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="mailto:carolsoaresfreitas@hotmail.com"><img src="https://img.shields.io/badge/-email-0472CA?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-
-- 👋 Eu sou a Carol, formada em Análise e Desenvolvimento de Sistemas
-
-- 💻 Atualmente estou explorando e atuando nas áreas de DevSecOps e Cloud Computing
-
-- 🤓 Me interesso também por desenvolvimento
-
+<br>
+<div align="center">
+Analista de SRE Jr · Platform Engineering · DevEx
+</div>
 
 # 
 
@@ -28,6 +24,7 @@
 ![](https://img.shields.io/badge/-aws-222E3E?logo=amazon-web-services&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azure-0188D7?logo=azure&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-azuredevops-0F6AD0?logo=azure%20devops&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-gcp-4285F4?logo=google-cloud&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-docker-0698FF?logo=docker&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-kubernetes-3E6DE6?logo=kubernetes&style=for-the-badge&logoColor=white)
 
@@ -37,10 +34,4 @@
 ![](https://img.shields.io/badge/-mysql-01618A?logo=mysql&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/datadog-774aa4.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-</div>
-
-#
-<div align="center">
-<img width="406px" height="190px" src="https://github-readme-stats.vercel.app/api?username=CarolinaSFreitas&show_icons=true&theme=dark">
-<img width="365px" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaSFreitas&hide_progress=true&theme=dark">
 </div>
