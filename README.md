@@ -30,7 +30,7 @@
 
 ![](https://img.shields.io/badge/-terraform-5A4CE9?logo=terraform&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/-git-F54D37?logo=git&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/-linux-111111?logo=linux&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/-Backstage-9BF0E1?logo=backstage&style=for-the-badge&logoColor=black)
 ![](https://img.shields.io/badge/-mysql-01618A?logo=mysql&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/datadog-774aa4.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
