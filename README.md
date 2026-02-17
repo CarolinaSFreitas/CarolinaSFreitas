@@ -6,7 +6,7 @@
 </div>
 <br>
 <div align="center">
-Analista de SRE Jr · Platform Engineering · DevEx
+ Platform Engineering · DevEx
 </div>
 
 # 
